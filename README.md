@@ -5,7 +5,7 @@ Small sample projects (using HTML + CSS with a little Javascript here and there)
 Uploading them to github to help familiarize myself with using git.
 
 - Neumorphism calculator with Vanilla Tilt.js functionality
-- Working clock with light/dark mode
+- Working analog clock with light/dark mode
 - Digital clock (still working on alternating 24HR/12HR capability)
 - Simple 16 character random password generator with copy to clipboard functionality
 - Semi-interactive iPhone box mockup with drop shadow
